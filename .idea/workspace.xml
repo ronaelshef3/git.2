@@ -4,40 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c880f0f9-56fb-48dd-b52d-342dd899090e" name="Changes" comment="f123">
-      <change beforePath="$PROJECT_DIR$/t1" beforeDir="false" afterPath="$PROJECT_DIR$/t1" afterDir="false" />
-    </list>
+    <list default="true" id="c880f0f9-56fb-48dd-b52d-342dd899090e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager">
-    <option name="groupingKeys">
-      <option value="directory" />
-      <option value="repository" />
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_COMMON_BRANCH" value="test2" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="SYNC" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "ronaelshef3"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/ronaelshef3/git.2",
-    "accountId": "5d052b07-ccd7-420a-94b7-113dcd1b63bc"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="33NphR74iPlEFcoHfSqRHR1gxBh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -66,48 +44,6 @@
       <option name="presentableId" value="Default" />
       <updated>1759167503148</updated>
     </task>
-    <task id="LOCAL‎-00001" summary="f1">
-      <option name="closed" value="true" />
-      <created>1759167612016</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL‎-00001" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1759167612016</updated>
-    </task>
-    <task id="LOCAL‎-00002" summary="f12">
-      <option name="closed" value="true" />
-      <created>1759167903878</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL‎-00002" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1759167903878</updated>
-    </task>
-    <task id="LOCAL‎-00003" summary="f12">
-      <option name="closed" value="true" />
-      <created>1759167918822</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL‎-00003" />
-      <option name="project" value="LOCAL‎" />
-      <updated>1759167918822</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="f1" />
-    <MESSAGE value="f12" />
-    <MESSAGE value="f123" />
-    <option name="LAST_COMMIT_MESSAGE" value="f123" />
   </component>
 </project>
